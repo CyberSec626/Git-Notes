@@ -4,10 +4,12 @@
 # Meu-Projeto
 
 Inicia um novo progeto com Git
-Comando: `git init`
+Comando:
+`git init`
 
 Adiciona os arquivos que estão prontos para serem commitados
-Comando: `git add <nome-arquivo>/.`
+Comando:
+`git add <nome-arquivo>/.`
 
 Commit os arquivos no hist´orico
 Comando: `git commit -m "mensagem commit"`
